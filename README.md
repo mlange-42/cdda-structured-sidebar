@@ -2,7 +2,7 @@
 
 <img align="right" width="267" src="./screenshots/closeup.png" />
 
-Custom compact, structured sidebar for [Cataclysm DDA](https://cataclysmdda.org/).
+A compact, structured sidebar mod for [Cataclysm DDA](https://cataclysmdda.org/).
 
 ## Features
 
