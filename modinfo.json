@@ -1,0 +1,10 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Structured_Sidebar",
+    "name": "Structured Sidebar",
+    "authors": [ "mlange-42" ],
+    "description": "A compact, structured sidebar",
+    "category": "misc_additions"
+  }
+]
