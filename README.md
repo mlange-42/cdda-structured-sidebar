@@ -4,6 +4,8 @@
 
 A compact, structured sidebar mod for [Cataclysm DDA](https://cataclysmdda.org/).
 
+:tada: **The sidebar is now part of the main game (experimental version)!** :tada:
+
 ## Features
 
 * Structure! And separators for more clarity
@@ -14,6 +16,8 @@ A compact, structured sidebar mod for [Cataclysm DDA](https://cataclysmdda.org/)
    * Configurable minimap size: 5x5, 7x7, 9x9
 
 ## Installation
+
+:exclamation: **No need to install the mod, as the sidebar is now in the main game.**  :exclamation:
 
 **Option 1: Download**
 
